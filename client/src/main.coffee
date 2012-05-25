@@ -1,5 +1,6 @@
 ###
 @author Tantaman
+#added a comment test for checkin
 ###
 requirejs.config({
 	paths: {
